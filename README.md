@@ -1,2 +1,2 @@
 # HELLO-PYTHON
-This is the HELLO PYTHON in C language
+This is the HELLO PYTHON PROGRAM in Python language
